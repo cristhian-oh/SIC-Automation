@@ -1,3 +1,7 @@
 <Solution>
-  <Project Path="ConsoleApp/ConsoleApp.csproj" />
+  <Project Path="src/Application/Application.csproj" Id="200e15bb-a05d-43ba-90f9-bc7ed585198e" />
+  <Project Path="src/ConsoleApp/ConsoleApp.csproj" />
+  <Project Path="src/Domain/Domain.csproj" Id="de806a0f-47f4-4264-93f2-93a928f387fa" />
+  <Project Path="src/Infrastructure/Infrastructure.csproj" Id="e3744ca8-1c80-4681-b3a6-526aa5c45bdc" />
+  <Project Path="src/Reporting/Reporting.csproj" Id="7ab80f24-ea5a-4c65-a406-90f750d9a88a" />
 </Solution>
